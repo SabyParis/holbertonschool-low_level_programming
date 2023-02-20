@@ -1,2 +1,2 @@
-# holbertonschool-low-level-programming
+holbertonschool-low-level-programming
 C - Hello, World
