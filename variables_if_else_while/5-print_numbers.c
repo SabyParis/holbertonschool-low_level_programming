@@ -1,17 +1,18 @@
 #include <stdio.h>
+
 /**
  * main - Entry Point
  *
- Retutrn: Always 0 (success)
+ *Return: Always 0 (success)
 */
 int main(void)
 {
-  int num;
-  for (num = 0; num < 10; num++)
-    printf("%d", num);
+        int num;
 
-  printf ("\n");
+	for (num = 0; num < 10; num++)
+                printf("%d", num);
 
-  return (0);
+        printf ("\n");
 
+        return (0);
 }
