@@ -1,12 +1,8 @@
 #include "main.h"
-#include <stdio.h>
-#include <stdlib.h>
-#include <ctype.h>
 
 /**
-  * main - Entry point
-  *
-  * Return: Always 0
+  * main - prints_putchar, followed by a new line
+  * Return: Always 0 (Success)
   */
 int main(void)
 {
@@ -22,3 +18,4 @@ int main(void)
 
 	return (0);
 }
+
